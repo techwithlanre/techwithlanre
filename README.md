@@ -1,11 +1,38 @@
-Hi 👋, I'm Lanre
 
-I'm a fullstack developer, building solutions with Laravel, VueJS / NuxtJS, and Flutter. I build mobile and web applications, APIs and database management.
 
-    🔭 I’m currently working on/or updating some of my projects.
-    👯 I’m looking to collaborate on any web or mobile project or any open source projects.
-    💬 Ask me about Laravel, VueJs, Flutter/Dart or anything tech related.
-    📫 How to reach me: Twitter | Discord | WhatsApp | Facebook | LinkedIn
-    💬 My Blogs: Medium | Hashnode | Youtube
-    😄 Pronouns: He/His
-    ⚡ Fun fact: In this world nothing matters eventually.
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Jamiu%20Olanrewaju%20🤠&text2=💖%20A%20Passionate%20Coder,%20Developer%20and%20Debugger&width=900&height=400)
+
+
+<img height="auto" src="https://komarev.com/ghpvc/?username=techwithlanre&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+
+
+
+<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
+
+
+
+<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=techwithlanre&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+
+- 🌱 I’m currently learning **Golang**
+
+- 💬 Ask me about **Larave, Flutter & VueJS**
+
+- 😂 Func Fact **Bats are the only mammal that can actually fly.**
+
+- 📫 How to reach me **techwithlanre@gmail.com**
+
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/techwithlanre" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/techwithlanre" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://getbootstrap.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://firebase.google.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://flutter.dev target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://golang.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg alt="android" width="40" height="40"/> </a> <a href=https://ifttt.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg alt="android" width="40" height="40"/> </a> <a href=https://laravel.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mongodb.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mysql.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.php.net target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.postgresql.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://postman.com target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://tailwindcss.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://vuejs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://getbootstrap.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://firebase.google.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://flutter.dev target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://golang.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg alt="android" width="40" height="40"/> </a> <a href=https://ifttt.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg alt="android" width="40" height="40"/> </a> <a href=https://laravel.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mongodb.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mysql.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.php.net target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.postgresql.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://postman.com target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://tailwindcss.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://vuejs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> </p>
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=techwithlanre&show_icons=true&theme=radical&locale=en&hide_border=false" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=techwithlanre&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwithlanre&theme=dark&hide_border=false" alt="profile-radme-generator" />
