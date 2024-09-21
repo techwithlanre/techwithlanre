@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Larave, Flutter & VueJS**
+- 💬 Ask me about **Laravel, Flutter & VueJS**
 
 - 😂 Func Fact **Bats are the only mammal that can actually fly.**
 
